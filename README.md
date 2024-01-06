@@ -1,4 +1,4 @@
-<h1 style="color:blue">Hospital Mangment System Made with Laravel 8</h1>
+<h1 style="color:blue">Hospital Managment System Made with Laravel 8</h1>
 <h3>Front End</h3>
 
 <img src="FrontEnd.png" />
@@ -29,10 +29,4 @@
 <h3>Admin Cred.</h3>
 - Admin: tauseed@test.com , password: tauseed 
 
-<p style="color:yellow">If you like our project please leave a star ❤<p>
-
-
-`
-    [For Online Demo Click Me](https://hospital-management-system.tauseedzaman.com)
-
-
+<p style="color:yellow">If you like this project please leave a star ❤<p>
